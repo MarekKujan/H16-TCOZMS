@@ -5,7 +5,7 @@ share: "true"
 ## Arduino, jeho základné časti
 - Arduino je mikroovládač
 - Skladá sa z: pinov (veľa rôznych funkcií), samotný mikroovládač, USB konektor, pripojenie na zdroj, tlačítko RESET, ICSP (debug a nahrávanie programov), podporné obvody
-![[labelled-arduino-parts-1173772155.png|labelled-arduino-parts-1173772155.png]]
+![[labelled_arduino_parts.png|labelled_arduino_parts.png]]
 ## Popíšte využitie servomotora v praxi
 - Robotická ruka 
 - Servomotor vie držať presné uhly, ktoré mu zadáme cez PWM signál

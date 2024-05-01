@@ -27,7 +27,7 @@ share: "true"
 
 - **Značky vývojových diagramov**
   - Vývojové diagramy používajú rôzne štandardizované symboly na reprezentáciu rôznych typov operácií a toku riadenia v algoritme.
-  ![[Pasted image 20240412104835.png|Pasted image 20240412104835.png]]
-![[Pasted image 20240412104843.png|Pasted image 20240412104843.png]]
+  ![[znacky_vyvojovych_diagramov_1.png|znacky_vyvojovych_diagramov_1.png]]
+![[znacky_vyvojovych_diagramov_2.png|znacky_vyvojovych_diagramov_2.png]]
 - **Charakterizácia mzdy ako cenu práce na trhu a na konkrétnom príklade uvediete výpočet čistej mzdy zamestnanca**
   - Mzda sa charakterizuje ako cena práce na trhu, ktorá sa formuje na základe ponuky a dopytu. Na konkrétny výpočet čistej mzdy zamestnanca sa berie do úvahy hrubá mzda, odvody na sociálne a zdravotné poistenie, daň z príjmu fyzických osôb a prípadné ďalšie odvody. Výsledná čistá mzda je hrubá mzda minus všetky odvody a dane.
