@@ -9,7 +9,7 @@ share: "true"
 4. popíšte základné kroky potrebné na digitalizáciu analógového signaĺu
 5. vysvetlite, aké finančné zdroje môže využívať výrobca PC a zaraďte PC do majetku podniku
 # B 
-1. popíšte PDU na L2
+1. popíšte PDU na L2 ^161e64
 	- Frame je PDU na vrstve L2
 	- enkapsuluje PDU z L3 (packet)
 	- pridáva Header a Footer

@@ -2,7 +2,7 @@
 share: "true"
 ---
 
-- Porovnajte objektovo-orientované programovanie a procedurálne programovani
+- Porovnajte objektovo-orientované programovanie a procedurálne programovanie
 - Základné pojmy OOP - trieda, členy tried, objekt
 - Prístupové modifikátory a ich význam (stačí 3)
 - Prístupové metódy, čo sú a na čo slúžia, príklady
