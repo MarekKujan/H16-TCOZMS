@@ -12,5 +12,5 @@ share: "true"
 - Porovnajte rozdiel medzi vnútorným odporom voltmetra a ampérmetra a ich zapojením pri meraní elektrických veličín v obvode
 - `rozdelenie zariadení podľa vrstvy na ktorej pracuje`
 ## C
-- Vypočítajte výsledný odpor elektrického obvodu: R1 - \[R2 || (R3 - R4)] ak: R1 = 100 \[ohm], R2 = 200 \[ohm], R3 = 100 \[ohm], R4 = 100 \[ohm]
+- Vypočítajte výsledný odpor elektrického obvodu: R1 - \[R2 || (R3 - R4)] ak: R1 = 100 \[Ω], R2 = 200 \[Ω], R3 = 100 \[Ω], R4 = 100 \[Ω]
 - `topológie sietí`
