@@ -25,7 +25,7 @@ Digitalizácia signálu je proces prevodu analógového signálu na digitálny f
 2. Kvantizácia (quantization): Hodnoty vzoriek signálu sú zaokrúhlené alebo zaokrúhlené na najbližšiu hodnotu, ktorú je možné reprezentovať v digitálnom formáte. Tým sa dosiahne diskretizácia signálu.
 Digitalizácia signálu je dôležitá, pretože umožňuje ukladanie, prenos a spracovanie signálov pomocou digitálnych zariadení. Digitálne signály sú odolnejšie voči šumu a môžu byť ľahko spracované pomocou rôznych algoritmov a techník.
 ##### popíšte PDU L2
-![[SIE2- - Téma#^161e64]]
+![[2- tema#^161e64]]
 ##### `popíšte spôsoby komunikácie half duplex a full duplex`
 #####  Popíšte význam a princíp činnosti posuvných registrov a časovačov TON a TOFF
 Posuvné registre sú dôležitou súčasťou digitálnych obvodov a slúžia na uchovávanie a posúvanie dát. Majú široké využitie v rôznych aplikáciách, ako napríklad v sériových komunikačných protokoloch, v riadiacich systémoch alebo v digitálnych hodinách.
