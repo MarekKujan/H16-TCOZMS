@@ -54,5 +54,16 @@
 
 # SIE
 1. [[2- tema]]
-
+2. Komunikačné modely
+3. Bezpečnosť na sieti
+4. IP Protokoly
+5. Siete LAN, WAN, VLAN
+6. Hardvér počítačových sietí
+7. Smerovanie a Smerovacie Protokoly
+8. Diagnostika sietí
+9. Komunikácia na vrstve L2
+10. Virtuálne siete VLAN
+11. Protokol DHCP
 # [[EKN]]
+
+# Architektúra počítača a operačné sýstemy
