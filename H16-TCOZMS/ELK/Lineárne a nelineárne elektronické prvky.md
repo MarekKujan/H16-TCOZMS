@@ -27,7 +27,15 @@ Nelineárne elektronické prvky majú nelineárnu charakteristiku, čo znamená,
 
 2. Nevlastná vodivosť: Nevlastná vodivosť je spôsobená prítomnosťou prímesí v polovodiči. Prímes je atóm, ktorý je iný ako atómy v základnom polovodiči. Prímes môže mať viac alebo menej valenčných elektrónov ako atómy v základnom polovodiči.  Nevlastná vodivosť je charakteristická pre polovodiče, ktoré majú prítomnosť prímesí, ktoré menia množstvo voľných nosičov náboja v polovodiči. Prímesy môžu buď zvýšiť (typ N) alebo znížiť (typ P) počet voľných nosičov náboja v polovodiči a tým ovplyvniť jeho vodivosť.
 ##### `fyzická vrstva modelu OSI`
+- fyzická vrstva v OSI modeli je zodpovedná pre odosielanie neštrukturovaných dát medzi sieťovými kartami
+- patria sem štandardy, ktoré upravujú takt, enkódovanie a formát elektrických signálov, ktoré sa posielajú
 ##### `TP káble`
+- káble Twisted Pair, 4 páry vodičov ktoré sú krútené aby minimalizovali crosstalk
+- crosstalk je jav kde sa indukuje napätie na susedné vodiče, krútenie tieto elektromagnetické javy vynuluje
+- UTP, FTP, STP káble - rôzne stupne ochrany pred rušením z vonkajších zdrojov ako je vedenie napájnia
+- existujú rôzne kategórie, rozlišné prenosové rýchlosti
+- káble TP končia koncovkou RJ45, 2 štandary TIA/EIA 568A-B
+- káble možno ďalej rozdeliť na: straight-through, crossover
 ##### Popíšte rozdiel aspoň medzi 2 rôznymi typmi diód
 1. Pn prechodová dióda: Pn prechodová dióda je najzákladnejší typ diódy. Skladá sa z dvoch polovodičových materiálov - p typu (prímes typu P) a n typu (prímes typu N), ktoré sú spojené spolu. Pn prechodová dióda umožňuje prúdenie elektrického prúdu iba v jednom smere, čo znamená, že je polarizovaná. Keď je pn prechodová dióda polarizovaná v správnom smere (napätie na p strane je vyššie ako na n strane), umožňuje prúdenie elektrického prúdu a funguje ako uzavretý obvod. Naopak, keď je polarizovaná v opačnom smere, blokuje prúdenie elektrického prúdu a funguje ako otvorený obvod.
 

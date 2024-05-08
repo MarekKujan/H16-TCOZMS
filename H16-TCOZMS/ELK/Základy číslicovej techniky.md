@@ -52,5 +52,5 @@ Sekvenčné logické obvody:
 11000000.10101000.00000001.00000000/24
 ```
 ##### Porovnajte IPv4 siete a IPv4 hosta
-IPv4 sieť je definovaná kombináciou IP adresy a prefixu siete. Prefix siete určuje, koľko bitov v IP adrese je rezervovaných pre identifikáciu siete. Zvyšné bity v IP adrese sú potom použité na identifikáciu hosta v rámci danej siete. Napríklad, v adrese "192.168.1.0/24" je prefix siete 24, čo znamená, že prvých 24 bitov IP adresy je rezervovaných pre identifikáciu siete a zvyšné bity sú použité na identifikáciu hosta v rámci tejto siete.
-IPv4 host je konkrétny zariadenie (napríklad počítač, server, tlačiareň), ktoré je súčasťou danej IPv4 siete. Každý host v rámci danej siete má svoju vlastnú unikátnu IP adresu, ktorá je priradená tomuto zariadeniu. Napríklad, v rámci siete "192.168.1.0/24" môže byť host s IP adresou "192.168.1.10".
+- IP adresa siete nemá žiadné bity 1 v hostovskej časti
+	- IP hosťa má bity 1 v hostovskej časti, preto vieme že je to hostovská IP adresa

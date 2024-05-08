@@ -18,6 +18,8 @@ share: "true"
 ---
 ##### Nakreslite a popíšte rozdiely medzi analógovým a, číslicovým a digitálnym signálom
 ![[typy_signalov.png]]
+ - Analógovy signál - je spojitý, môže nadobudnút ľubovolnú hodnotu, informáciu nesie amplitúda signálu
+ - Digitálny signál - diskrétny, nespojitý signál, informácie tu reprezentuje binárne kódovanie signál je buď HIGH alebo LOW (HIGH - 1, LOW - 0)
 ##### Objasnite parametre reálneho digitálneho signálu, ako aj spôsob a význam digitalizácie signálov
 ![[realny_signal.png]]
 Digitalizácia signálu je proces prevodu analógového signálu na digitálny formát. Tento proces sa skladá z dvoch hlavných krokov:
@@ -38,7 +40,11 @@ Posuvné registre sa často používajú v spojení s časovačmi TON (On Delay 
 ##### Nakreslite a popíšte jednoduchú schému logického obvodu
 ![[log_obvody.png]]
 ##### `MAC tabuľka`
-
+- tabuľka MAC adries, priradená k portom na switchi
+- switch robí prepínacie rozhodnutia na základe tejto tabuľky
+- napr. pri cut-through switching, switch si načíta rámec po deštinačnú MAC adresu a začne ho prepínať na port
+- naplnenie MAC tabuľky sa deje keď príde rámec na port a zapíše sa jeho source adresa
+- ak swtich nemá v MAC tabuľke deštinačnú adresu rámca tak rámec daľej posiela na každý port okrem toho, na ktorom ho dostal
 
 
 
