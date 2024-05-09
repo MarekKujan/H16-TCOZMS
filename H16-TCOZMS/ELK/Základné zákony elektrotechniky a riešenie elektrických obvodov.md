@@ -1,6 +1,3 @@
----
-share: "true"
----
 ## A
 - Definujte Ohmov zákon a Kirchhoffove zákony
 - Popíšte rozdiel medzi elektrickým prúdom, napätím a odporom

@@ -1,6 +1,3 @@
----
-share: "true"
----
 ### Vysvetlite a popíšte, akú právnu formu podniku v SR môže mať výrobca alebo predajca číslicovej techniky
 - dve formy: živnosť a SRO
 #### Živnosť

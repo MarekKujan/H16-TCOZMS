@@ -1,6 +1,3 @@
----
-share: "true"
----
 ## A
  - charakterizujte binárny číselný kód
  - načrtnite schematické značky logických členov AND, NOR, NOT

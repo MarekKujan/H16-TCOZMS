@@ -1,6 +1,3 @@
----
-share: "true"
----
 
 # A
 1. nakreslite a popíšte rozdiely medzi analógovým, číslicovým a digitálnym signálom

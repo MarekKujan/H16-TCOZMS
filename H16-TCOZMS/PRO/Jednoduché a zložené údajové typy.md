@@ -1,6 +1,3 @@
----
-share: "true"
----
 ### 1. Charakterizuj 5 jednoduchých dátových typov
 
 - **Celé číslo (int)**: Reprezentuje celé čísla bez desatinných miest. V jazykoch ako C++ alebo Java má obvykle veľkosť 4 bajty.

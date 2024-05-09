@@ -1,6 +1,3 @@
----
-share: "true"
----
 ## A
 
 - Porovnajte rozdiel medzi lineárnymi a nelineárnymi elektronickými prvkami

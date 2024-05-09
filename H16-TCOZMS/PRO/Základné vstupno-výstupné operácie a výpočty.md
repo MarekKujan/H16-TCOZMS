@@ -1,6 +1,3 @@
----
-share: "true"
----
 
 ### Objekty a metódy používané pri konzolovom vstupe a výstupe
 

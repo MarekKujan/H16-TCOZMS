@@ -1,6 +1,3 @@
----
-share: "true"
----
 1. **Parametre**
    - Parameter metódy udáva aký typ hodnoty musí užívateľ zadať pri volaní metódy. Parametre majú aj pomenovanie s ktorým sa pracuje v metóde ako hodnotami. Pri volaní metódy užívateľ odovzdáva metóde argumenty, ktoré musia spĺňať parametre ako je dátovy typ ale môžu niesť iný názov.
 

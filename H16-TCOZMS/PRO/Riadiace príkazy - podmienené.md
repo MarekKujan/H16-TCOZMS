@@ -1,6 +1,3 @@
----
-share: "true"
----
 
 ### Príkazy, prepínač, cykly
 +

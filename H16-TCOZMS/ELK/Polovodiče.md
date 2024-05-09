@@ -1,6 +1,3 @@
----
-share: "true"
----
 ## A
 - Rozdeľte materiály z hľadiska elektrickej vodivosti
 - Vysvetlite vznik polovodiča typu N a P

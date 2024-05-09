@@ -1,6 +1,3 @@
----
-share: "true"
----
 
 - Porovnanie konzolových aplikácií s aplikáciami s grafickým rozhraním
 	1. Konzolové aplikácie:

@@ -1,6 +1,3 @@
----
-share: "true"
----
 ## Arduino, jeho základné časti
 - Arduino je mikroovládač
 - Skladá sa z: pinov (veľa rôznych funkcií), samotný mikroovládač, USB konektor, pripojenie na zdroj, tlačítko RESET, ICSP (debug a nahrávanie programov), podporné obvody

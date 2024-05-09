@@ -1,6 +1,3 @@
----
-share: "true"
----
 
 1. Princíp fungovania vstupno výstupného súborového systému (ChatGPT)
 	Vstupno-výstupný (I/O) súborový systém je základný mechanizmus, ktorý umožňuje programom komunikovať so súbormi a ďalšími zariadeniami (ako napríklad tlačiarne, klávesnice, displeje atď.) na počítači. Jeho princíp fungovania môže byť zhrnutý v niekoľkých krokoch:
@@ -78,14 +75,17 @@ class Program
 ```
 3. Charakteristika jednotlivých typov súborov
 	1. Binárne súbory
-		- údaje v binárnych súboroch reprezentujú vlastný formát
+		- dáta sú priamo uložené v bitoch, tým pádom nie sú ľudsky čitateľné
+		- môžu to byť obrázky, zvuk alebo aj spustiteľný program
 	2. Textové súbory
-		- textové súbory sú určené na ukladanie textových znakov pomocou viacerých formátov alebo kodóvaní
-		- najčastejšie sa využíva UTF-8
+		- textové súbory sú ľudsky čitateľné, buď ASCII alebo Unicode znaky
+		- najčastejšie sa využíva UTF-8 encoding
 4. Spôsoby zapisovania a načítania súborov
-	1. neviem
+	1. Základné súborové funkcie v programovacích jazykoch, napr.: fopen, open...
+	2. Niake možno cez API?
 5. Spôsoby ako zistiť informácie o súboroch
-	1. neviem
+	1. V konzole vieme použiť príkazy ako sú `dir` na windowse a `ls -l` alebo `file` na linuxe
+	2. File explorer alebo iný súborový GUI prehliadač
 6. Serializácia a deserializácia
 	-  Serializácia je jav, pri ktorom sa stav objektu aj s údajmi konvertuje (serializuje) do prenosného formátu
 	- Deserializácia je opak, serializovaný objekt sa načítáva z úložiska 

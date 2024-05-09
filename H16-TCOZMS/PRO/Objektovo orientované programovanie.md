@@ -1,6 +1,3 @@
----
-share: "true"
----
 
 - Porovnajte objektovo-orientované programovanie a procedurálne programovanie (ChatGPT)
 	**Objektovo-orientované programovanie**

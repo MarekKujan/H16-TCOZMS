@@ -1,6 +1,3 @@
----
-share: "true"
----
 
 - **Vysvetlenie algoritmu**
   - Algoritmus je daný proces alebo postupnosť činností s cieľom dosiahnuť výsledok. V skutočnosti sa dá použiť ako príklad recept na varenie. Z hľadiska programovania je algoritmus kus kódu, ktorý má začiatok a koniec, nejakú vstupnú hodnotu, postupnosť kódu a potom výstup (koniec).

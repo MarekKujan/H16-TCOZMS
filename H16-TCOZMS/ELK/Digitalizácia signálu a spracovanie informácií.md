@@ -1,6 +1,3 @@
----
-share: "true"
----
 ## A
 - Nakreslite a popíšte rozdiely medzi analógovým a, číslicovým a digitálnym signálom
 - Objasnite parametre reálneho digitálneho signálu, ako aj spôsob a význam digitalizácie signálov
