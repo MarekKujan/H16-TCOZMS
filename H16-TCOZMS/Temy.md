@@ -54,7 +54,7 @@
 
 # SIE
 1. [[2- tema]]
-2. Komunikačné modely
+2. [[Komunikačné modely]]
 3. Bezpečnosť na sieti
 4. IP Protokoly
 5. Siete LAN, WAN, VLAN
