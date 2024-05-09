@@ -12,7 +12,7 @@ share: "true"
 
 ## Porovnajte pojmy robot a robotický manipulátor
 
-### Robot
+#### Robot
 - všeobecný pojem, ktorý pomenúva stroje alebo zaridenia, ktoré sú schopné vykonávať určité úlohy alebo činnosti s menšou alebo žiadnou ľudskou interakciou
 
 ## Vysvetlite pojem kinematická štruktúra
@@ -23,7 +23,20 @@ share: "true"
 
 ## Odvodte polomer otáčania deferenciálneho podvozku
 
-
+ R = (L / 2) * ((v_l + v_r) / (v_r - v_l)) kde:
+    - (R) je polomer otáčania,
+    - (L) je rozostup medzi kolesami (vzdialenosť medzi ľavým a pravým kolesom),
+    - (v_l) je rýchlosť ľavého kolesa,
+    - (v_r) je rýchlosť pravého kolesa.
+Tento vzorec vychádza z predpokladu, že rýchlosť otáčania ľavého a pravého kolesa je rôzna. Ak by boli rýchlosti rovnaké, vozidlo by sa pohybovalo priamo a polomer otáčania by bol teoreticky nekonečný. Zjednodušenie vzorca:
+    
+1. **Rozdiel rýchlostí** ((v_r - v_l)) určuje, ako rýchlo sa vozidlo otáča. Ak je tento rozdiel veľký, vozidlo sa otáča rýchlejšie a na menšom polomere. Ak je rozdiel malý, otáča sa pomalšie a na väčšom polomere.
+    
+2. **Súčet rýchlostí** ((v_l + v_r)) predstavuje celkovú "otáčaciu silu" vozidla. Tento súčet sa delí rozdielom rýchlostí, aby sa získal pomer, ktorý určuje, ako efektívne vozidlo využíva svoju otáčaciu silu na zmenu smeru.
+    
+3. Nakoniec, celý tento pomer sa násobí polovicou rozostupu kolies ((\frac{L}{2})), čo zohľadňuje fyzickú štruktúru vozidla a jeho schopnosť otáčať sa okolo stredového bodu medzi kolesami.
+    
+V podstate, tento vzorec hovorí, že polomer otáčania je priamo ovplyvnený tým, ako rôzne sa otáčajú kolesá (rozdiel v ich rýchlostiach) a ako je vozidlo široké (rozostup kolies). Vozidlo sa otáča efektívnejšie (na menšom polomere) s väčším rozdielom v rýchlostiach kolies a menším rozostupom medzi nimi.
 ## Porovnajte optický inkrementálny a absolútny snímač polohy
 - inkrementalny snimac vie snimat pohyb v nejakom smere
 - ako priklad myska, opticky snimac porovnava ktorym smerom sa posuva myska a posiela signal, mysku mozete polozit hocikde, snima to len smer pohybu a jej rychlost
