@@ -50,20 +50,19 @@
 6. [[Súbory - zápis a čítanie]]
 7. [[Objektovo orientované programovanie]]
 8. [[Tvorba grafických rozhraní]]
-# [[ROB a SOA]]
-
+# ROB, SOA
+1. [[Robotika a softvérové aplikácie]]
 # SIE
-1. [[2- tema]]
-2. [[Komunikačné modely]]
-3. Bezpečnosť na sieti
-4. IP Protokoly
-5. Siete LAN, WAN, VLAN
-6. Hardvér počítačových sietí
-7. Smerovanie a Smerovacie Protokoly
-8. Diagnostika sietí
-9. Komunikácia na vrstve L2
-10. Virtuálne siete VLAN
-11. Protokol DHCP
+1. [[Komunikačné modely]]
+2. [[Bezpečnosť na sieti]]
+3. [[IP Protokoly]]
+4. [[Siete LAN, WAN, VLAN]]
+5. [[Hardvér počítačových sietí]]
+6. [[Smerovanie a Smerovacie Protokoly]]
+7. [[Diagnostika sietí]]
+8. [[Komunikácia na vrstve L2]]
+9. [[Virtuálne siete LAN]]
+10. [[Protokol DHCP]]
+# PCY, OSY
+1. [[Architektúra počítača a operačné systémy]]
 # [[EKN]]
-
-# Architektúra počítača a operačné sýstemy

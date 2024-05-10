@@ -1,3 +1,18 @@
+a)
+1. Vymenujte aspoň 5 jednoduchých údajových typov, uveďte na čo slúžia a prečo sa zaraďujú medzi jednoduché údajové typy
+2. Charakterizujte reťazce, predveďte vytvorenie reťazca, vstup údajov do reťazca a volanie základných metód pre prácu s reťazcami
+3. Charakterizujte klasické pole, popíšte deklaráciu a vytvorenie poľa aj z hľadiska pamäte
+4. Charakterizujte triedu ako údajovú štruktúru
+5. Charakterizujte kontajnery a kolekcie ako úložiská údajov
+b)
+1. Uveďte výhody používania kontajnerov a kolekcií oproti klasickým poliam
+2. Predveďte použitie základných metód pri práci s kolekciami
+3. Vytvorte program, ktorý naplní klasické N prvkové pole náhodnými číslami, pričom interval generovania nech je zadaný z klávesnice
+c)
+1. Načrtnite topológiu s nutnosťou použitia Default Gateway
+2. Popíšte základnú štruktúru podnikateľského plánu
+
+---
 ### 1. Charakterizuj 5 jednoduchých dátových typov
 
 - **Celé číslo (int)**: Reprezentuje celé čísla bez desatinných miest. V jazykoch ako C++ alebo Java má obvykle veľkosť 4 bajty.

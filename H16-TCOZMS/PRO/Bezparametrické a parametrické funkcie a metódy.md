@@ -1,3 +1,20 @@
+a)
+1. Uveďte, na čo slúžia funkcie a metódy a aký je medzi nimi rozdiel
+2. Charakterizujte parametre, uveďte konkrétne príklady parametrov
+3. Uveďte, ako sú volané funkcie a metódy bez návratovej hodnoty a ako s návratovou hodnotou
+4. Vysvetlite, čo rozumieme pod preťažovaním funkcií a metód
+5. Vysvetlite, čo rozumieme pod predefinovaním metód
+b)
+1. Vysvetlite, aký je rozdiel medzi statickými a nestatickými metódami
+2. Vymenujte modifikátory prístupu v objektovom programovaní a uveďte, aký je medzi nimi rozdiel
+3. Vytvorte program s dvomi triedami: jednu s metódou Main() a druhú s dvomi metódami – statickou na výpočet aritmetického priemeru piatich celých čísel a nestatickou na zistenie počtu slov vo vete
+c)
+1. Zdôvodnite potrebu protokolu ARP
+2. Vysvetlite úlohy a postavenie NBS, ktorá je súčasťou eurosystému
+3. 
+
+---
+
 1. **Parametre**
    - Parameter metódy udáva aký typ hodnoty musí užívateľ zadať pri volaní metódy. Parametre majú aj pomenovanie s ktorým sa pracuje v metóde ako hodnotami. Pri volaní metódy užívateľ odovzdáva metóde argumenty, ktoré musia spĺňať parametre ako je dátovy typ ale môžu niesť iný názov.
 

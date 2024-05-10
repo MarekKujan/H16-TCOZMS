@@ -1,3 +1,18 @@
+a)
+1. Uveďte, čo rozumieme pod algoritmom v procese programovania
+2. Uveďte, čo je to vývojový diagram
+3. Charakterizujte základné vlastnosti algoritmov, uveďte konkrétne príklady
+4. Ak si uvedomíme, že program je vlastne algoritmus prepísaný do konkrétneho programovacieho jazyka, uveďte pri nesplnení ktorých vlastností je možné takýto program skompilovať a spustiť
+5. Uveďte a popíšte základné zložky algoritmov
+b)
+1. Popíšte etapy algoritmizácie
+2. Nakreslite základné značky vývojového diagramu a vysvetlite ich
+3. Navrhnite algoritmus a vývojový diagram na určenie väčšieho čísla z dvoch celých čísel zadaných z klávesnice
+c)
+1. Vysvetlite pojem redundancia na L2 (STP, Etherchannel, ...)
+2. Charakterizujte mzdu ako cenu práce na trhu a na konkrétnom príklade uveďte výpočet čistej mzdy zamestnanca v podniku
+
+---
 
 - **Vysvetlenie algoritmu**
   - Algoritmus je daný proces alebo postupnosť činností s cieľom dosiahnuť výsledok. V skutočnosti sa dá použiť ako príklad recept na varenie. Z hľadiska programovania je algoritmus kus kódu, ktorý má začiatok a koniec, nejakú vstupnú hodnotu, postupnosť kódu a potom výstup (koniec).

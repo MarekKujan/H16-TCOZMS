@@ -1,4 +1,18 @@
+a)
+1. Uveďte zoznam relačných a logických operátorov
+2. Popíšte vytváranie a vyhodnocovanie podmienených výrazov
+3. Charakterizujte podmienený prikaz – na čo slúži, aký je jeho tvar a ako je realizovaný
+4. Charakterizujte prepínač- na čo slúži, aký je jeho tvar a ako je realizovaný
+5. Uveďte, v akých prípadoch sa používajú cykly
+b)
+1. Popíšte jednotlivé typy cyklov a uveďte, na čo je daný typ cyklu vhodný
+2. Uveďte, akým spôsobom možno predčasne ukončiť cyklus a ako aktuálnu iteráciu
+3. Vytvorte program na nájdenie najväčšieho čísla z N čísel, ktoré sú zadávané z klávesnice
+c)
+1. Popíšte funkciu multilayer switch v počítačovej sieti
+2. Vysvetlite aká je úloha štátu v trhovej ekonomike
 
+---
 ### Príkazy, prepínač, cykly
 +
 #### Relačné a logické operátory

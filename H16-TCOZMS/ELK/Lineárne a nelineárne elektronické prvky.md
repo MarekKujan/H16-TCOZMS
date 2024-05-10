@@ -1,17 +1,16 @@
-## A
-
-- Porovnajte rozdiel medzi lineárnymi a nelineárnymi elektronickými prvkami
-- Charakterizujte vlastnú a nevlastnú vodivosť polovodičov
-- `fyzická vrstva modelu OSI`
-- `TP káble`
-- `Ekonomická otázky`
-## B
-- Popíšte rozdiel aspoň medzi 2 rôznymi typmi diód
-- Vysvetlite rozdiel medzi bipolárnym a unipolárnym tranzistorom
-- `Optické káble`
-## C
-- Určte hodnotu predradného odporu LED diódy s prahovým napätím 2V, ktorou má pretekať prúd 20mA ak je napájacie napätie 12V
-- `popíšte proces nábehu pri zapnutí zariadenia switch - LED diódy`
+a)
+1. Porovnajte rozdiel medzi lineárnymi a nelineárnymi elektronickými prvkami
+2. Vysvetlite princíp merania odporu priamou a nepriamou metódou
+3. Vysvetlite rozdiel medzi ideálnymi a reálnymi elektronickými prvkami
+4. Porovnajte správanie sa prvkov R, L a C v obvodoch jednosmerného a striedavého prúdu
+5. Určte hodnotu predradného odporu LED diódy s prahovým napätím 2V, ktorou má pretekať prúd 20 mA, ak je napájacie napätie 12 V
+b)
+1. Popíšte proces nábehu pri zapnutí zariadenia switch - LED diódy
+2. Definujte úlohy fyzickej vrstvy modelu OSI
+3. Popíšte TP káble
+c)
+1. Načrtnite štruktúru optických káblov
+2. Zaraďte PC do majetku podniku a popíšte jeho obstaranie, ocenenie ako dlhodobého majetku
 
 ---
 ##### Porovnajte rozdiel medzi lineárnymi a nelineárnymi elektronickými prvkami

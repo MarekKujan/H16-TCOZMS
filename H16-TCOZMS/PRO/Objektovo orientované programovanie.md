@@ -1,3 +1,18 @@
+a)
+1. Porovnajte objektovo orientované programovanie s procedurálnym programovaním
+2. Charakterizujte základné pojmy OOP – trieda, členy tried, objekt
+3. Vymenujte prístupové modifikátory a vysvetlite ich význam
+4. Charakterizujte prístupové metódy
+5. Uveďte, ako sa objekty konštruujú a deštruujú
+b)
+1. Popíšte, aký je rozdiel medzi nestatickými a statickými členmi tried
+2. Charakterizujte dedičnosť', vysvetlite, akým spôsobom je volaný konštruktor bázovej triedy a čo znamená predefinovanie metódy
+3. Vytvorte program, v ktorom z bázovej triedy odvodíte novú triedu
+c)
+1. Popíšte proces encapsulácie na PDU
+2. Charakterizujte ekonomické a alternatívne ukazovatele celkovej úrovne bohatstva krajiny
+
+---
 
 - Porovnajte objektovo-orientované programovanie a procedurálne programovanie (ChatGPT)
 	**Objektovo-orientované programovanie**

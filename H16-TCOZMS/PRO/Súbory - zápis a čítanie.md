@@ -1,3 +1,18 @@
+a)
+1. Popíšte, na akom princípe funguje vstupno–výstupný súborový systém
+2. Charakterizujte metódy a objekty používané pri súborových výstupoch a vstupoch
+3. Charakterizujte jednotlivé typy súborov
+4. Popíšte spôsoby zápisu údajov do súboru a spôsoby načítania údajov zo súboru
+5. Uveďte, akými spôsobmi a metódami možno zistiť informácie o súboroch
+b)
+1. Popíšte serializáciu a deserializáciu objektov
+2. Vytvorte program, ktorý do súboru zapíše náhodné čísla z intervalu zadaného z klávesnice
+3. Doplňte program o výpočet aritmetického priemeru čísel, ktoré boli zapísané do súboru
+c)
+1. Vysvetlite štruktúru IPv6
+2. Vysvetlite aké sú základné ekonomické voľby, ktorým čelí každá spoločnosť
+
+---
 
 1. Princíp fungovania vstupno výstupného súborového systému (ChatGPT)
 	Vstupno-výstupný (I/O) súborový systém je základný mechanizmus, ktorý umožňuje programom komunikovať so súbormi a ďalšími zariadeniami (ako napríklad tlačiarne, klávesnice, displeje atď.) na počítači. Jeho princíp fungovania môže byť zhrnutý v niekoľkých krokoch:

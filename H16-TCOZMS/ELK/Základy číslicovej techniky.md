@@ -1,16 +1,16 @@
-## A
- - charakterizujte binárny číselný kód
- - načrtnite schematické značky logických členov AND, NOR, NOT
- - napíšte tabuľku pravdivostných hodnôt pre AND, NOR, NOT
- - definujte hexadecimálnu sústavu
- - `Ekonomická otázka` 
-## B
-- načrtnite využitie hexadecimálneho kódu v počítačových sieťach
-- charakterizujte binárnu číselnú sústavu a jej využitie v praxi
-- porovnajte kombinačné a sekvenčné logické obvody
-## C
-- Zvoľte si a vyjadrite v binárnom kóde IPv4 adresu s prefixom 24
-- Porovnajte IPv4 siete a IPv4 hosta
+a)
+1. Charakterizujte význam binárneho číselného kódu vo výpočtovej technike
+2. Porovnajte kombinačné a sekvenčné logické obvody
+3. Porovnajte pravdivostné tabuľky dvojvstupových logických obvodov AND, NAND, OR a NOR
+4. Objasnite rozdiel medzi monostabilným (M.K.O.), bistabilným (B.K.O.) a astabilným klopným obvodom (A.K.O.)
+5. Vysvetlite a popíšte reprodukčný proces podniku, jeho vstupy a výstupy
+b)
+1. Definujte hexadecimálnu sústavu
+2. Načrtnite využitie hexadecimálneho kódu v počítačových sieťach
+3. Charakterizujte binárnu číselnú sústavu a jej využitie v praxi
+c)
+1. Zvoľte si a vyjadrite v binárnom kóde IPv4 adresu s dĺžkou prefixu 24
+2. Porovnajte IPv4 siete a IPv4 hosta
 
 ---
 ##### charakterizujte binárny číselný kód

@@ -1,3 +1,18 @@
+a)
+1. Porovnajte konzolové aplikácie s aplikáciami s grafickým rozhraním
+2. Uveďte, čo rozumieme pod udalosťami riadenom programovaní
+3. Charakterizujte komponenty z hľadiska OOP
+4. Popíšte vývojové prostredie v režime tvorby aplikácie s grafickým rozhraním
+5. Charakterizujte základné komponenty
+b)
+1. Vymenujte a popíšte základné vlastnosti komponentov
+2. Popíšte obsluhu základných udalosti
+3. Vytvorte aplikáciu s grafickým rozhraním, jednoduchú kalkulačku so základnými aritmetickými operáciami a do aplikácie doplňte funkciu na výpočet druhej odmocniny
+c)
+1. Popíšte PDU na transportnej vrstve
+2. Charakterizujte banku a popíšte základné bankové operácie
+
+---
 
 - Porovnanie konzolových aplikácií s aplikáciami s grafickým rozhraním
 	1. Konzolové aplikácie:

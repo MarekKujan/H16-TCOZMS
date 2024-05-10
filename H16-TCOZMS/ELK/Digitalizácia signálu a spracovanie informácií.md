@@ -1,16 +1,16 @@
-## A
-- Nakreslite a popíšte rozdiely medzi analógovým a, číslicovým a digitálnym signálom
-- Objasnite parametre reálneho digitálneho signálu, ako aj spôsob a význam digitalizácie signálov
-- `popíšte PDU L2`
-- `popíšte spôsoby komunikácie half duplex a full duplex`
-- `Ekonomická otázka`
-## B
-- Popíšte význam a princíp činnosti posuvných registrov a časovačov TON a TOFF
-- `komunikácia na spoločnom médiu`
-- `spôsoby komunikácie medzi switchmi na L2`
-## C
-- Nakreslite a popíšte jednoduchú schému logického obvodu
-- `MAC tabuľka`
+a)
+1. Nakreslite a popíšte rozdiely medzi analógovým, číslicovým a digitálnym signálom
+2. Objasnite význam digitalizácie informácií
+3. Popíšte časové priebehy na vstupoch a výstupoch časovačov TON a TOF
+4. Popíšte základné kroky potrebné na digitalizáciu analógového signálu
+5. Vysvetlite, aké finančné zdroje môže využívať výrobca PC a zaraďte PC do majetku podniku
+b)
+1. Popíšte PDU na L2
+2. Popíšte spôsoby komunikácie half duplex a full duplex
+3. Vysvetlite spôsob komunikácie na spoločnom médiu
+c)
+1. Popíšte MAC tabuľku
+2. Popíšte manažovanie switchu na L2
 
 ---
 ##### Nakreslite a popíšte rozdiely medzi analógovým a, číslicovým a digitálnym signálom
@@ -23,8 +23,34 @@ Digitalizácia signálu je proces prevodu analógového signálu na digitálny f
 1. Vzorkovanie (sampling): Analógový signál je zachytený v určitých časových intervaloch a získané vzorky sú reprezentáciou hodnôt signálu v týchto okamihoch.
 2. Kvantizácia (quantization): Hodnoty vzoriek signálu sú zaokrúhlené alebo zaokrúhlené na najbližšiu hodnotu, ktorú je možné reprezentovať v digitálnom formáte. Tým sa dosiahne diskretizácia signálu.
 Digitalizácia signálu je dôležitá, pretože umožňuje ukladanie, prenos a spracovanie signálov pomocou digitálnych zariadení. Digitálne signály sú odolnejšie voči šumu a môžu byť ľahko spracované pomocou rôznych algoritmov a techník.
-##### popíšte PDU L2
-![[2- tema#^161e64]]
+
+1. popíšte PDU na L2 ^161e64
+	- Frame je PDU na vrstve L2
+	- enkapsuluje PDU z L3 (packet)
+	- pridáva Header a Footer
+	- Header obsahuje minimálne
+		- Preambula 1010 * 7 bajtov
+		- Start Frame Delimiter 101010**11**
+		- MAC adresy: source a destination, pre WLAN možú byť ešte zvyšné 2 MAC adresy
+		- protokol na vyššej vrstve
+	- samotný packet
+	- Footer
+		- FCS (Frame Check Sequence)
+		- systém na overenie či vo frame nedošlo k porušeniu údajov
+2. popíšte spôsoby komunikácie half duplex a full duplex
+	- Half-Duplex
+		- médium je schopné len jednosmernej komunikácie
+		- starý ethernet štandard pomocou Hubov, Coaxial
+		- Ethernet bol elektricky vždy schopný full-duplex, limitáciou nie je kábel ale sieť okolo neho (1. pár - TX, 2. pár - RX, 3. pár - napájanie, 4. pár - rezerva)
+			- Ethernet huby boli lacnejšie zariadenia t. j. CSMA-CD, zariadenie museli počúvať či niekto posiela keď oni vysielali aby detegovali kolíziu
+		- WLAN siete
+		- Jedno vlákno optiky je half-duplex, moderná optika už vie full-duplex
+	- Full-Duplex
+		- médium je obojsmerné, zariadenie môže vysielať aj prijímať informácie naraz
+3. vysvetlite spôsob komunikácie na spoločnom médiu
+	- dva métody prístupu CSMA-CD, CSMA-CA
+	- CSMA-CD - collision detection - ethernet half-duplex
+	- CSMA-CA - collision avoidance - bezdrôtové siete
 ##### `popíšte spôsoby komunikácie half duplex a full duplex`
 #####  Popíšte význam a princíp činnosti posuvných registrov a časovačov TON a TOFF
 Posuvné registre sú dôležitou súčasťou digitálnych obvodov a slúžia na uchovávanie a posúvanie dát. Majú široké využitie v rôznych aplikáciách, ako napríklad v sériových komunikačných protokoloch, v riadiacich systémoch alebo v digitálnych hodinách.

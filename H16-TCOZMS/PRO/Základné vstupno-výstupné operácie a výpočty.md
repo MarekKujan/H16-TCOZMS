@@ -1,4 +1,18 @@
+a)
+1. Popíšte objekty a metódy používané pri konzolovom výstupe a vstupe
+2. Uveďte, ako sú vstupy a výstupy realizované v grafických rozhraniach
+3. Definujte pojmy premenná, konštanta a popíšte konverzie medzi reťazcami a číslami
+4. Uveďte, na čo slúži operátor priradenia
+5. Vymenujte a popíšte aritmetické operátory a ich prioritu
+b)
+1. Vymenujte a popíšte niektoré matematické funkcie a metódy
+2. Popíšte spôsob volania matematických funkcií a metód
+3. Vytvorte program na výpočet polomeru kruhu, pri jeho známom obsahu zadanom z klávesnice
+c)
+1. Zdôvodnite potrebu vysielania broadcast v počítačovej sieti
+2. Uveďte aké náklady, výnosy a výsledok hospodárenia vznikajú v podniku (analýza nulového bodu)
 
+---
 ### Objekty a metódy používané pri konzolovom vstupe a výstupe
 
 **C++:**

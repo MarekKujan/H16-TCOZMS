@@ -1,15 +1,19 @@
 	
-- definujte vrstvový komunikačný model OSI a model TCP/IP
-- popíšte spôsob komunikácie medzi jednotlivými vrstvami modelu
-- popíšte proces encapsulácie a deencapsulácie
-- vysvetlite pojem PDU
-- porovnajte hlavičky PDU Frame a Packet
-- zdôvodnite potrebu použitia verejných a privátnych IP adries v IPv4 a úlohu
-NAT
-- uveďte aspoň dve organizácie zodpovedné za otvorené štandardy v sieťach
-- porovnajte halfduplex a fullduplexz pohľadu použitého média
-- vysvetlite využitie protokolov pre IPTV a HTTP
+a)
+1. Definujte vrstvový komunikačný model OSI a model TCP/IP
+2. Popíšte spôsob komunikácie medzi jednotlivými vrstvami modelu, použite obrázok 1 obrazovej prílohy č.6
+3. Popíšte proces encapsulácie a deencapsulácie
+4. Vysvetlite pojem PDU, použite obrázok 2 obrazovej prílohy č. 6
+5. Porovnajte hlavičky PDU Frame a Packet
+b)
+1. Zdôvodnite potrebu použitia verejných a privátnych IP adries v IPv4
+2. Uveďte názvy aspoň dvoch organizácií zodpovedných za otvorené štandardy v sieťach
+3. Vysvetlite využitie protokolu NAT
+c)
+1. Uveďte výhody a nevýhody jednotlivých zdrojov, metód získavania nových zamestnancov a popíšte základné náležitosti pracovnej zmluvy
+2. Vysvetlite pojem algoritmus z hľadiska programovania a vymenujte jeho základné vlastnosti
 
+---
 1. **Definícia vrstvových komunikačných modelov OSI a TCP/IP:**
    - **OSI model (Open Systems Interconnection model)** je teoretický model pre sieťové komunikácie, ktorý rozdeľuje komunikačný proces do siedmich vrstiev: Fyzická, Dátová spojová, Sieťová, Transportná, Relačná, Prezentačná a Aplikačná.
    - **TCP/IP model** je praktickejší a používaný v reálnych sieťach. Má štyri vrstvy: Sieťové rozhranie, Internetová, Transportná a Aplikačná. Tento model je základom internetu.

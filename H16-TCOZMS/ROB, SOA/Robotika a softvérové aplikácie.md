@@ -1,3 +1,20 @@
+a)
+1. Uveďte, čo je to Arduino, popíšte jeho základné časti
+2. Popíšte využitie servomotora v praxi
+3. Porovnajte pojmy robot a robotický manipulátor
+4. Vysvetlite pojem kinematická štruktúra, použite prílohu č. 25
+5. Vymenujte a popíšte typy podvozkov mobilných robotov
+b)
+1. Odvoďte polomer otáčania diferenciálneho podvozku
+2. Porovnajte optický inkrementálny a absolútny snímač polohy
+3. Vytvorte program, v ktorom bude blikať LED s periódou 0.5s
+c)
+1. Vysvetlite znaky, funkcie a právne formy podniku na Slovensku
+2. Charakterizujte najpoužívanejšie komponenty v aplikáciách s grafickým rozhraním
+
+
+---
+
 ## Arduino, jeho základné časti
 - Arduino je mikroovládač
 - Skladá sa z: pinov (veľa rôznych funkcií), samotný mikroovládač, USB konektor, pripojenie na zdroj, tlačítko RESET, ICSP (debug a nahrávanie programov), podporné obvody
