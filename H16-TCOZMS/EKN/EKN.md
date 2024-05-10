@@ -92,6 +92,18 @@
 	- nezamestnanosť - sociálno-ekonomický jav, ktorý vzniká vtedy, ak je na trhu práce skupina nezamestnaných, ktorí hľadajú prácu
 
 ### Vysvetlite hlavné úlohy personálneho manažmentu v podniku
+1. **Personálne plánovanie -** odhady a prepočty potreby zamestnancov, plánovanie personálneho rozvoja zamestnancov
+2. **Analýza práce -** vymedzenie pracovných miest a funkcii, spracovanie opisov práce a špecifikácii požiadaviek na zamestnancov
+3. **Získanie a výber zamestnancov -** zabezpečenie obsadenia voľných prac. Miest
+4. **Rozmiestňovanie a kariéra zamestnancov -** prijímanie nových zamestnancov, povýšenie, premiestnenie na nižšiu funkciu, preradenie na inú prácu skončenie prac. pomeru
+5. **Kvalifikačná príprava a kariéra zamestnancov -** zabezpečenie nepretržitého vzdelávaní
+6. **Hodnotenie zamestnancov -** vypracovanie a uplatňovanie systému hodnotenia zamestnancov
+7. **Motivácia a stimulácia zamestnancov**
+8. **Odmeňovanie zamestnancov -** mzda a poskytovanie rôznych výhod
+9. **Pracovné vzťahy -** medzi vedením podniku a odbormi, komunikácia v podniku, zlepšovanie vzťahov medzi zamestnancami
+10. **Pracovné podmienky -** časové podmienky práce, pracovné prostredie, bezpečnosť a ochrana pri práci
+11. **Personálny a informačný systém -** evidovanie a spracovanie údajov o zamestnancoch, pracovných miestach, mzdách, sociálnych záležitostiach
+
 
 ### Charakterizujte mzdu ako cenu práce na trhu a na konkrétnom príklade uveďte výpočet čistej mzdy zamestnanca v podniku
 
