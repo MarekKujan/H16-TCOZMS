@@ -133,3 +133,16 @@
 - **ND** - národný dôchodok
 	- celkový dôchodok, ktorý získali vlastníci výrobných faktorovo.
 	- súhrn všetkých dôchodkov, ktoré plynú z využívania výrobných faktorov za jeden rok
+
+### Vysvetlite a popíšte reprodukčný proces podniku, jeho vstupy a výstupy
+**Vstupy:**
+- Ľudský kapitál: Zamestnanci, manažéri a ďalší personál, ktorí prispievajú svojimi schopnosťami a znalosťami k vykonávaniu práce.
+- Fyzické zdroje: Materiály, suroviny, vybavenie a technológie potrebné na výrobu produktov alebo poskytovanie služieb.
+- Finančné zdroje: Kapitál potrebný na prevádzku podniku, vrátane investícií, pôžičiek, príjmov a nákladov.
+**Proces spracovania**:
+- Výrobné procesy: Manipulácia s materiálmi, spracovanie, montáž, testovanie a výroba produktov.
+- Poskytovanie služieb: Vyhodnocovanie požiadaviek zákazníkov, poskytovanie služieb zákazníkom a riadenie vzťahov so zákazníkmi.
+**Výstupy:**
+- Produkty: Fyzické výstupy procesu, ktoré sú určené na predaj alebo distribúciu na trhu.
+- Služby: Nehmotné výstupy procesu, ktoré poskytujú hodnotu zákazníkom a môžu zahŕňať poradenstvo, opravy, údržbu atď.
+- Zisk a hodnota pre zainteresované strany: Ekonomický zisk, spokojnosť zákazníkov, kvalita výrobkov a služieb a podpora rastu a udržateľnosti podniku.
