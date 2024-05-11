@@ -14,44 +14,66 @@ c)
 
 ---
 ##### Porovnajte rozdiel medzi lineárnymi a nelineárnymi elektronickými prvkami
-
-Lineárne a nelineárne elektronické prvky sú základnými stavebnými blokmi elektronických obvodov. Rozdiel medzi nimi spočíva v ich VACH charakteristike a spôsobe, akým menia prúd alebo napätie.
-Lineárne elektronické prvky majú lineárnu charakteristiku, čo znamená, že menia prúd alebo napätie v proporčnom vzťahu. To znamená, že ak sa prúd alebo napätie zmení o určitý faktor, zmení sa aj výstupný signál o rovnaký faktor. Príkladmi lineárnych elektronických prvkov sú rezistory, kondenzátory a induktory.
-Nelineárne elektronické prvky majú nelineárnu charakteristiku, čo znamená, že menia prúd alebo napätie v nelineárnom vzťahu. To znamená, že zmena vstupného signálu nemusí mať rovnaký vplyv na výstupný signál. Príkladmi nelineárnych elektronických prvkov sú diódy, tranzistory a operačné zosilňovače.
-##### Charakterizujte vlastnú a nevlastnú vodivosť polovodičov
-1. Vlastná vodivosť: Vlastná vodivosť je spôsobená prítomnosťou voľných nosičov náboja v polovodiči. Voľné nosiče náboja môžu byť elektróny alebo dierky (chýbajúce elektróny v valenčnom pásme). Vlastná vodivosť je charakteristická pre polovodiče, ktoré majú v ich valenčnom pásme dostatok voľných elektrónov alebo dierok. Pri vlastnej vodivosti sa elektróny alebo dierky môžu pohybovať voľne v polovodiči a prispievať k vodivosti materiálu.
-
-2. Nevlastná vodivosť: Nevlastná vodivosť je spôsobená prítomnosťou prímesí v polovodiči. Prímes je atóm, ktorý je iný ako atómy v základnom polovodiči. Prímes môže mať viac alebo menej valenčných elektrónov ako atómy v základnom polovodiči.  Nevlastná vodivosť je charakteristická pre polovodiče, ktoré majú prítomnosť prímesí, ktoré menia množstvo voľných nosičov náboja v polovodiči. Prímesy môžu buď zvýšiť (typ N) alebo znížiť (typ P) počet voľných nosičov náboja v polovodiči a tým ovplyvniť jeho vodivosť.
-##### `fyzická vrstva modelu OSI`
-- fyzická vrstva v OSI modeli je zodpovedná pre odosielanie neštrukturovaných dát medzi sieťovými kartami
-- patria sem štandardy, ktoré upravujú takt, enkódovanie a formát elektrických signálov, ktoré sa posielajú
-##### `TP káble`
+ - Rozdiel medzi nimi spočíva v ich VACH charakteristike a spôsobe, akým menia prúd alebo napätie.
+- **Lineárne elektronické** prvky majú lineárnu charakteristiku, čo znamená, že menia prúd alebo napätie v proporčnom vzťahu. To znamená, že ak sa prúd alebo napätie zmení o určitý faktor, zmení sa aj výstupný signál o rovnaký faktor. Príkladmi lineárnych elektronických prvkov sú rezistory, kondenzátory a induktory.
+- **Nelineárne elektronické** prvky majú nelineárnu charakteristiku, čo znamená, že menia prúd alebo napätie v nelineárnom vzťahu. To znamená, že zmena vstupného signálu nemusí mať rovnaký vplyv na výstupný signál. Príkladmi nelineárnych elektronických prvkov sú diódy, tranzistory a operačné zosilňovače.
+##### Vysvetlite princíp merania odporu priamou a nepriamou metódou
+- Metóda merania odporov **Volt-Ampérovou metódou** je postup, pri ktorom sa meria napätie a prúd v obvode a následne sa vypočíta odpor pomocou Ohmovho zákona. Meranie sa vykonáva pomocou voltmetra a ampérmetra. 
+- **Priama metóda** Pri priamej metóde sa odpor meria priamo pomocou odporového meradla, ako je multimeter. Multimeter je zariadenie, ktoré môže merať rôzne elektrické vlastnosti, vrátane odporu. Priame meranie zahŕňa pripojenie zariadenia na meraný odpor a priame zobrazenie jeho hodnoty na displeji.
+##### Vysvetlite rozdiel medzi ideálnymi a reálnymi elektronickými prvkami
+**Ideálne elektronické prvky:**
+- Nemajú žiadny vnútorný odpor alebo straty energie
+- Ich parametre sú konštantné a nezávislé na teplotnej alebo iných podmienkach.
+- Napríklad ideálny rezistor má presne danú hodnotu odporu bez akejkoľvek variácie.
+**Reálne elektronické prvky**:
+- Majú vnútorný odpor a straty energie.
+- Ich parametre môžu byť ovplyvnené teplotou, frekvenciou, napätím a ďalšími faktormi.
+- Napríklad reálny rezistor môže mať malý vnútorný odpor a jeho hodnota sa môže mierne meniť v závislosti od teploty a ďalších faktorov.
+##### Porovnajte správanie sa prvkov R, L a C v obvodoch jednosmerného a striedavého prúdu
+**Jednosmerný prúd:**
+- **Rezistor (R):** V obvode s jednosmerným prúdom sa správa rezistoru nezmení. Rezistor jednoducho obmedzuje prúd, ktorý cez neho prechádza, a konvertuje elektrickú energiu na teplo podľa Ohmovho zákona (U = IR).
+- **Cievka (L):** Pri jednosmernom prúde sa induktor správa ako otvorený obvod. To znamená, že sa správa ako veľmi veľký odpor pre jednosmerný prúd, takže takmer žiadny prúd nekrúti. Jeho jednosmerný odpor je teoreticky nekonečný.
+- **Kondenzátor (C):** Pri jednosmernom prúde sa kondenzátor správa ako krátky obvod. To znamená, že v okamihu zapnutia kondenzátoru sa všetka energia akumulovaná v elektrickom poli na ňom vyčerpá. Jeho jednosmerný odpor je teoreticky nulový.
+**Striedavý prúd:**
+- **Rezistor (R):** Správanie rezistoru v obvode so striedavým prúdom je rovnaké ako pri jednosmernom prúde. Rezistor jednoducho obmedzuje prúd podľa Ohmového zákona a mení elektrickú energiu na teplo.
+- **Cievka (L):** Pri striedavom prúde sa induktor správa ako zložitý prvok, ktorý vytvára magnetické pole, ktoré sa mení v čase. V dôsledku toho vzniká indukované napätie, ktoré spôsobuje v obvode proti prúdu. Tento efekt spôsobuje zdĺhavý nárast prúdu cez induktor.
+- **Kondenzátor (C):** Pri striedavom prúde sa kondenzátor správa ako zložitý prvok, ktorý uchováva náboj a vytvára elektrické pole. Pri meniacom sa napätí na kondenzátore sa náboj pohybuje dovnútra a von z kondenzátora v závislosti od polarity napätia, čo vedie k prúdu.
+![[Pasted image 20240511114517.png]]
+##### Určte hodnotu predradného odporu LED diódy s prahovým napätím 2V, ktorou má pretekať prúd 20mA ak je napájacie napätie 12V
+- Hodnota predradného odporu LED diódy sa dá vypočítať pomocou Ohmovho zákona. Ohmov zákon hovorí, že napätie na odporovom prvku je rovné súčinu prúdu a odporu.
+- V tomto prípade máme napájacie napätie (V) = 12V, prúd (I) = 20mA (čo je 0.02A) a prahové napätie LED diódy (V_LED) = 2V.
+Predradný odpor (R) sa dá vypočítať ako:
+R = (V - V_LED) / I
+R = (12V - 2V) / 0.02A
+R = 10V / 0.02A
+R = 500Ω
+##### Popíšte proces nábehu pri zapnutí zariadenia switch - LED diódy
+- **Step 1**: First, the switch loads a power-on self-test (POST) program stored in ROM. POST checks the CPU subsystem. It tests the CPU, DRAM, and the portion of the flash device that makes up the flash file system.  
+- **Step 2**: Next, the switch loads the boot loader software. The boot loader is a small program stored in ROM that is run immediately after POST successfully completes.  
+- **Step 3**: The boot loader performs low-level CPU initialization. It initializes the CPU registers, which control where physical memory is mapped, the quantity of memory, and its speed.  
+- **Step 4**: The boot loader initializes the flash file system on the system board.  
+- **Step 5**: Finally, the boot loader locates and loads a default IOS operating system software image into memory and gives control of the switch over to the IOS.
+![[Pasted image 20240511120429.png]]
+- **System LED** Shows whether the system is receiving power and is functioning properly.
+- **Redundant Power System (RPS) LED**
+- **Port Status LED** Indicates that the port status mode is selected when the LED is green.
+- **Port Duplex LED** Indicates that the port duplex mode is selected when the LED is green.
+- **Port Speed LED** Indicates that the port speed mode is selected.
+- **Power over Ethernet (PoE) Mode LED**
+##### Definujte úlohy fyzickej vrstvy modelu OSI
+**Fyzická vrstva modelu OSI**  Je zodpovedná za fyzickú prenosovú a prijímaciu časť dát medzi zariadeniami a riadi prístup k fyzickému médium, ako sú koaxiálne káble, optické vlákna alebo bezdrôtové prenosové médium. Tu sú hlavné úlohy fyzickej vrstvy:
+- **Prepojenie fyzického média:** Fyzická vrstva umožňuje prenos dát cez rôzne typy fyzických médií, ako sú káble, vlákna alebo bezdrôtové prenosové médiá. Zabezpečuje, že dáta sú vhodne zakódované pre dané médium a prenášajú sa cez správne.
+- **Synchronizácia dátových rámcov:** Fyzická vrstva zabezpečuje, že dáta sú prenášané v správnom čase a že odosielateľ a prijímateľ sú synchronizovaní. To zahŕňa koordináciu bitov na fyzickom médiu tak, aby boli dáta presne prenesené a následne interpretované správne.
+- **Fyzická topológia siete:** Fyzická vrstva definuje fyzickú topológiu siete, teda spôsob, ako sú zariadenia pripojené a ako sú spojené s prenosovými médiami. Môže ísť o hviezdicovú, kruhovú, zbernicovú alebo inú topológiu, ktorá ovplyvňuje spôsob, ako sa dáta fyzicky prenášajú.
+- **Kódovanie a modulácia signálu:** Fyzická vrstva zahŕňa procesy kódovania a modulácie signálu, ktoré umožňujú prevádzať digitálne dáta na analógový signál pre prenos cez fyzické médium a následné dekódovanie a demoduláciu na prijímateľskej strane.
+#####  Popíšte TP káble
 - káble Twisted Pair, 4 páry vodičov ktoré sú krútené aby minimalizovali crosstalk
 - crosstalk je jav kde sa indukuje napätie na susedné vodiče, krútenie tieto elektromagnetické javy vynuluje
 - UTP, FTP, STP káble - rôzne stupne ochrany pred rušením z vonkajších zdrojov ako je vedenie napájnia
 - existujú rôzne kategórie, rozlišné prenosové rýchlosti
 - káble TP končia koncovkou RJ45, 2 štandary TIA/EIA 568A-B
 - káble možno ďalej rozdeliť na: straight-through, crossover
-##### Popíšte rozdiel aspoň medzi 2 rôznymi typmi diód
-1. Pn prechodová dióda: Pn prechodová dióda je najzákladnejší typ diódy. Skladá sa z dvoch polovodičových materiálov - p typu (prímes typu P) a n typu (prímes typu N), ktoré sú spojené spolu. Pn prechodová dióda umožňuje prúdenie elektrického prúdu iba v jednom smere, čo znamená, že je polarizovaná. Keď je pn prechodová dióda polarizovaná v správnom smere (napätie na p strane je vyššie ako na n strane), umožňuje prúdenie elektrického prúdu a funguje ako uzavretý obvod. Naopak, keď je polarizovaná v opačnom smere, blokuje prúdenie elektrického prúdu a funguje ako otvorený obvod.
 
-2. Zenerova dióda: Zenerova dióda je špeciálny typ pn prechodovej diódy, ktorá je navrhnutá tak, aby pracovala v reverznom priepustnom smere v určitom rozsahu napätia. Zenerova dióda je navrhnutá tak, aby mala špecifickú hodnotu zeneroveho napätia, ktorá je nižšia ako normálne prechodové napätie pn prechodovej diódy. Keď je Zenerova dióda polarizovaná v reverznom smere a napätie na nej dosiahne alebo presiahne zenerové napätie, začne prúdiť malý reverzný prúd. Tento efekt sa nazýva Zenerov efekt. Zenerove diódy sa často používajú ako napäťové referencie, ochranné prvky alebo v regulátoroch napätia.
-
-##### Vysvetlite rozdiel medzi bipolárnym a unipolárnym tranzistorom
-Bipolárny tranzistor je zložený z dvoch typov nosičov náboja - elektrónov a dierok. Má tri piny: báza (base), emitér (emitter) a kolektor (collector). Bipolárny tranzistor môže fungovať v dvoch režimoch - ako spínač alebo ako zosilňovač. V spínačovom režime sa tranzistor ovláda prúdom do bázy a umožňuje alebo blokuje prúd medzi emitérom a kolektorom. V zosilňovacom režime mení malý prúd do bázy na väčší prúd medzi emitérom a kolektorom s určitým zosilnením.
-
-Unipolárny tranzistor, známy aj ako polovodičový tranzistor s efektom polí (FET), funguje na základe ovládania elektrického poľa. Má tri piny: bránu (gate), zdroj (source) a odtok (drain). Unipolárny tranzistor môže byť typu N-kanál alebo P-kanál. V N-kanálovom FET je medzi zdrojom a odtokom vytvorený kanál z negatívne nabitých nosičov náboja (elektrónov), ktoré sú ovládané elektrickým poľom na bráne. V P-kanálovom FET je kanál tvorený pozitívne nabitými nosičmi náboja (dierami). Unipolárny tranzistor funguje ako regulovateľný odpor, kde napätie na bráne mení vodivosť kanálu a tým mení prúd medzi zdrojom a odtokom.
-![[unipolarny_tranzistor.png]]
-##### `Optické káble`
-##### Určte hodnotu predradného odporu LED diódy s prahovým napätím 2V, ktorou má pretekať prúd 20mA ak je napájacie napätie 12V
-Hodnota predradného odporu LED diódy sa dá vypočítať pomocou Ohmovho zákona. Ohmov zákon hovorí, že napätie na odporovom prvku je rovné súčinu prúdu a odporu.
-V tomto prípade máme napájacie napätie (V) = 12V, prúd (I) = 20mA (čo je 0.02A) a prahové napätie LED diódy (V_LED) = 2V.
-
-Predradný odpor (R) sa dá vypočítať ako:
-R = (V - V_LED) / I
-R = (12V - 2V) / 0.02A
-R = 10V / 0.02A
-R = 500Ω
-
-Takže hodnota predradného odporu LED diódy by mala byť 500Ω.
-##### `popíšte proces nábehu pri zapnutí zariadenia switch - LED diódy`
+#####  Načrtnite štruktúru optických káblov
+![[Pasted image 20240511123153.png]]
+##### [[EKN#Zaraďte PC do majetku podniku a popíšte jeho obstaranie, ocenenie ako dlhodobého majetku]]

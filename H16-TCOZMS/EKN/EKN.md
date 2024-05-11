@@ -55,6 +55,11 @@
 ### Zaraďte PC do majetku podniku a popíšte jeho obstaranie, ocenenie ako dlhodobého majetku
 
 ### Charakterizujte daňovú sústavu, druhy daní a vysvetlite vzťah medzi štátnym rozpoćotom a daňami
+- Daňová sústava je systém, ktorý určuje spôsob zberu daní od občanov a podnikov. 
+- Druhy daní zahŕňajú napríklad dane z príjmu, dane z pridanej hodnoty, dane z nehnuteľností a mnoho ďalších. 
+- Štátny rozpočet je plán, ktorý určuje príjmy a výdavky štátu. 
+- Daňový systém je dôležitým zdrojom príjmov pre štátny rozpočet.
+
 
 ### Uveďte výhody a nevýhody jednotlivých zdrojov, metód získavania nových zamestnancov a popíśte základné náležitosti pracovnej zmluvy
 - činnosť zameraná na zísaknie vhodných uchádzačov o voľné pracovné miesto
