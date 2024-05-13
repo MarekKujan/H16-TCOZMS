@@ -5,13 +5,13 @@ a)
 	WLAN - bezdrôtová
 	MAN - metropol area network
 	WAN - rozľahlá sieť
-1. Načrtnite niektoré topológie sietí LAN
+2. Načrtnite niektoré topológie sietí LAN
 	fyzická-logická, 
-1. Porovnajte siete typu client - server a sietí peer – to – peer
+3. Porovnajte siete typu client - server a sietí peer – to – peer
 	peer to peer = rovnocenné zariadenia aj server aj client
 	server - zariadenie, ktoré poskytuje služby - web, ftp, mail, cloud
-1. Popíšte jednotlivé komponenty sietí
-2. Vysvetlite intranet, extranet a internet
+4. Popíšte jednotlivé komponenty sietí
+5. Vysvetlite intranet, extranet a internet
 b)
 1. Načrtnite zariadenia, ktoré používame v LAN a WAN
 2. Porovnajte konvergované siete a tradičné oddelené siete, použite obrazovú prílohu č. 9

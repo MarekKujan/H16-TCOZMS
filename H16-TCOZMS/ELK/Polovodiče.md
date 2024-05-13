@@ -54,4 +54,6 @@ c)
 ##### Popíšte zapojenie NPN tranzistora ako spínača
 ##### Porovnajte vzájomne aspoň 3 triedy nízkofrekvenčných zosilňovačov
 ##### Popíšte nastavenie redundancie na L2
+- etherchannel
+- show etherchannel summary
 ##### [[EKN#Popíšte druhy živností a uveďte všetky podmienky nevyhnutné pre ich prevádzkovanie]]

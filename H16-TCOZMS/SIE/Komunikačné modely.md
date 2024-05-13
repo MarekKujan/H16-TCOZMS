@@ -13,6 +13,8 @@ b)
 	10.0.0.0/8, 172.168.0.0./16, 192.168.0.0/24 127.0.0.0 lopback
 1. Uveďte názvy aspoň dvoch organizácií zodpovedných za otvorené štandardy v sieťach
 2. Vysvetlite využitie protokolu NAT
+	preklad súkromných adries na verejné
+	access listy, statické, dynamické, pat
 c)
 1. Uveďte výhody a nevýhody jednotlivých zdrojov, metód získavania nových zamestnancov a popíšte základné náležitosti pracovnej zmluvy
 2. Vysvetlite pojem algoritmus z hľadiska programovania a vymenujte jeho základné vlastnosti

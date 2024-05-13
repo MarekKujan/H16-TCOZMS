@@ -45,7 +45,8 @@ b)
    - adresovanie počítačov
    - nezávislosť na médiu
    - smerovanie paketov
-3. Porovnajte hlavičky paketu IPv4 a IPv6, použite obrazovú prílohu č. 8
+   - best effort
+1. Porovnajte hlavičky paketu IPv4 a IPv6, použite obrazovú prílohu č. 8
    - mate tam obrazok tak asi vam to pojde
 c)
 1. Popíšte rôzne formy platobného styku (elektronické bankovníctvo)
