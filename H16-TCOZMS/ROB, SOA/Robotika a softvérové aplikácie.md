@@ -30,12 +30,13 @@ c)
 - všeobecný pojem, ktorý pomenúva stroje alebo zaridenia, ktoré sú schopné vykonávať určité úlohy alebo činnosti s menšou alebo žiadnou ľudskou interakciou
 
 ## Vysvetlite pojem kinematická štruktúra
-- zaobera sa s geometriou a stupnami volnosti robotov
-- poznáme sériové, paralelné a hybridne kinematické štruktúry
-- sériové štruktúry realizuje pohyb sériovo zapojených pohybných bodov
-- paralelné štruktúry realizuje pohyb pomocou paralelne pohybujúcych sa bodov
-- hybridné kombinujú obe systémy
-
+- odvíja sa od konštrukcie konkrétneho druhu
+- daná kinematickou štruktúrou, t. j. typ a postupnosť usporiadania kinematických dvojíc
+v kinematickom reťazci
+- pohybové vlastnosti dané počtom rotačných osí (R) a počtom priamych osí (T)
+![[Pasted image 20240513133935.png]]
+![[Pasted image 20240513133951.png]]
+![[Pasted image 20240513134520.png]]
 ## Vymenujte a popíšte typy podvozkov mobilných robotov
 
 
