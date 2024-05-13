@@ -2,13 +2,17 @@
 a)
 1. Definujte vrstvový komunikačný model OSI a model TCP/IP
 2. Popíšte spôsob komunikácie medzi jednotlivými vrstvami modelu, použite obrázok 1 obrazovej prílohy č.6
-3. Popíšte proces encapsulácie a deencapsulácie
-4. Vysvetlite pojem PDU, použite obrázok 2 obrazovej prílohy č. 6
-5. Porovnajte hlavičky PDU Frame a Packet
+	komunikujú pomocou protokolov (súbory pravidiel)
+	fyzická vrstva - signály, vlastnosti, typy, kódovanie technické parametre
+	datalinkóvá vrstva - sieťová karta - hardware, software, logická-fizická (mac, a llc)
+1. Popíšte proces encapsulácie a deencapsulácie
+2. Vysvetlite pojem PDU, použite obrázok 2 obrazovej prílohy č. 6
+3. Porovnajte hlavičky PDU Frame a Packet
 b)
 1. Zdôvodnite potrebu použitia verejných a privátnych IP adries v IPv4
-2. Uveďte názvy aspoň dvoch organizácií zodpovedných za otvorené štandardy v sieťach
-3. Vysvetlite využitie protokolu NAT
+	10.0.0.0/8, 172.168.0.0./16, 192.168.0.0/24 127.0.0.0 lopback
+1. Uveďte názvy aspoň dvoch organizácií zodpovedných za otvorené štandardy v sieťach
+2. Vysvetlite využitie protokolu NAT
 c)
 1. Uveďte výhody a nevýhody jednotlivých zdrojov, metód získavania nových zamestnancov a popíšte základné náležitosti pracovnej zmluvy
 2. Vysvetlite pojem algoritmus z hľadiska programovania a vymenujte jeho základné vlastnosti
