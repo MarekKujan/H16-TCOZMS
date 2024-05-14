@@ -79,7 +79,6 @@
 **Úroveň textu - Tempo reči**
 - striedaním tempa reči vytvárame rytmus
 
-
 #### Komunikácia
  - z lat. communicare - dorozumievať, oznamovať
  - prenos informácie medzi komunikantmi
@@ -130,7 +129,15 @@ Lexikológia – štýlové rozvrstvenie slovnej zásoby
 
 
 Syntax – vetné členy
-Syntax – veta
+#### Syntax – veta
+- podľa obsahu/modálnosti - oznamovacie - opytovacie - rozkazovacie - želacie - zvolacie
+jednočlenná
+- podľa členitosti
+
+
+
+
+
 Syntax – členenie/kompozícia textu
 
 Vývin slovenského jazyka – kodifikácie
